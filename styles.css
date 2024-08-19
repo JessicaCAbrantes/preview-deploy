@@ -133,6 +133,16 @@ header {
   text-align: center;
   height: auto;
 }
+
+.__footer__flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0px;
+  margin-top: 0.5rem;
+}
+
 section {
   margin: 0;
   padding: 2rem;
